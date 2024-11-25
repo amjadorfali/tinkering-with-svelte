@@ -2188,13 +2188,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@sveltejs/kit@npm:2.5.28":
-  version: 2.5.28
-  resolution: "@sveltejs/kit@npm:2.5.28"
+"@sveltejs/kit@npm:2.8.3":
+  version: 2.8.3
+  resolution: "@sveltejs/kit@npm:2.8.3"
   dependencies:
     "@types/cookie": "npm:^0.6.0"
     cookie: "npm:^0.6.0"
-    devalue: "npm:^5.0.0"
+    devalue: "npm:^5.1.0"
     esm-env: "npm:^1.0.0"
     import-meta-resolve: "npm:^4.1.0"
     kleur: "npm:^4.1.5"
@@ -2202,7 +2202,7 @@ __metadata:
     mrmime: "npm:^2.0.0"
     sade: "npm:^1.8.1"
     set-cookie-parser: "npm:^2.6.0"
-    sirv: "npm:^2.0.4"
+    sirv: "npm:^3.0.0"
     tiny-glob: "npm:^0.2.9"
   peerDependencies:
     "@sveltejs/vite-plugin-svelte": ^3.0.0 || ^4.0.0-next.1
@@ -2210,7 +2210,7 @@ __metadata:
     vite: ^5.0.3
   bin:
     svelte-kit: svelte-kit.js
-  checksum: 10/907042ac909695e2981ee5f82e2babc36d93902fd821bdedb78aa15d9828ba1a3a7edc97080ab68a1d5374a5675812c27c35d8ef1c42f10dd8f61b5412465196
+  checksum: 10/ec3e4d66888875497ffb8baded9155de6e02134227bf73bcd28e8501ef2d4222f2a5d4a1ad082a899c21630864ca65b674fb86c2c49c774c1024ea01cf1d1bef
   languageName: node
   linkType: hard
 
@@ -4811,10 +4811,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"devalue@npm:^5.0.0":
-  version: 5.0.0
-  resolution: "devalue@npm:5.0.0"
-  checksum: 10/52c4e1b57c3c05dee64f8c64175f53812c4de4fa1a098b238acd74a38c0756b3631ca74081d0141248d27c00c2f18861b6f874298cd68a4fb2e0797b71de4970
+"devalue@npm:^5.1.0":
+  version: 5.1.1
+  resolution: "devalue@npm:5.1.1"
+  checksum: 10/ff36fe61af61636419eb16692d2fe43d793cdfb17f868bb3560c5485e4c25bc38d472304e61efdec6e806a3c4b450c46247decf59968b4a05ddc7714ea64f885
   languageName: node
   linkType: hard
 
@@ -8689,7 +8689,7 @@ __metadata:
     "@skeletonlabs/skeleton": "npm:^2.10.2"
     "@skeletonlabs/tw-plugin": "npm:^0.4.0"
     "@sveltejs/adapter-netlify": "npm:^4.3.4"
-    "@sveltejs/kit": "npm:2.5.28"
+    "@sveltejs/kit": "npm:2.8.3"
     "@sveltejs/vite-plugin-svelte": "npm:^3.1.2"
     "@tailwindcss/forms": "npm:^0.5.9"
     "@types/cookie": "npm:^0.6.0"
@@ -11553,14 +11553,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"sirv@npm:^2.0.4":
-  version: 2.0.4
-  resolution: "sirv@npm:2.0.4"
+"sirv@npm:^3.0.0":
+  version: 3.0.0
+  resolution: "sirv@npm:3.0.0"
   dependencies:
     "@polka/url": "npm:^1.0.0-next.24"
     mrmime: "npm:^2.0.0"
     totalist: "npm:^3.0.0"
-  checksum: 10/24f42cf06895017e589c9d16fc3f1c6c07fe8b0dbafce8a8b46322cfba67b7f2498610183954cb0e9d089c8cb60002a7ee7e8bca6a91a0d7042bfbc3473c95c3
+  checksum: 10/94dbd5df7cf4965f7c5941767117cbf9709e1d25de1d619a114c3f77fc63c124b5a5255717af2a0de637bb83d0b0defd0822d01420764b56432b53281b1d675d
   languageName: node
   linkType: hard
 
